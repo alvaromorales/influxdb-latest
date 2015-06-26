@@ -35,5 +35,6 @@ EXPOSE 8083
 EXPOSE 8086
 
 VOLUME ["/data"]
+VOLUME ["/var/opt/influxdb"]
 
 CMD ["/run.sh"]
