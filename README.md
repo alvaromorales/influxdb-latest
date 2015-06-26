@@ -1,6 +1,6 @@
 # influxdb-latest
 
-Image that builds InfluxDB from source.
+Docker image to build InfluxDB from source and run a server.
 
 Based on [tutumcloud/influxdb](https://github.com/tutumcloud/influxdb) and InfluxDB's [contributing guide](https://github.com/influxdb/influxdb/blob/master/CONTRIBUTING.md) guide. This README was adapted from tutumcloud/influxdb's.
 
